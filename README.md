@@ -2,8 +2,8 @@
 
 Before
 
-![before image](./images/before.png)
+![before image](./before.png)
 
 After
 
-![after image](./images/after.png)
+![after image](./after.png)
