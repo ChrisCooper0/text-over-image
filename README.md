@@ -1,9 +1,9 @@
-### Simple implementation to make text more readable when displayed over an image
+### Example of how to make text more readable when displayed over an image
 
 - Before
 
-![before image](./images/before.png)
+![before image](./before.png)
 
 - After
 
-![after image](./images/after.png)
+![after image](./after.png)
