@@ -1,9 +1,9 @@
 ### Example of how to make text more readable when displayed over an image
 
-- Before
+Before
 
 ![before image](./before.png)
 
-- After
+After
 
 ![after image](./after.png)
