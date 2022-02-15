@@ -1,9 +1,7 @@
-### Example of how to make text more readable when displayed over an image
+# Text Over Image
 
-Before
+## Tutorial
 
-![before image](./before.png)
+Watch how I built this on YouTube:
 
-After
-
-![after image](./after.png)
+[![YouTube thumbnail](./thumb.png)](https://youtu.be/-81fquJnVcc)
